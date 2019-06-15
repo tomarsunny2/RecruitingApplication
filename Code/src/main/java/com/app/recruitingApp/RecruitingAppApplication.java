@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RecruitingAppApplication {
 
     public static void main(String[] args) {
+        System.out.println("Master Bug Fix");
         SpringApplication.run(RecruitingAppApplication.class, args);
     }
 
